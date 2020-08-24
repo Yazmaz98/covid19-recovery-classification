@@ -3,6 +3,8 @@ This paper aims at studying the chances that a patient diagnosed with Covid19 ha
 
 Can we know whether a patient will recover, based on age, gender, country and whether the person comes from or has visited Wuhan in the past? We will calculate their recovery chances (probability) using logistic regression to then classify using a threshold.
 
+Both datasets that I’ve worked with have been retrieved from Kaggle. The data set is the “Novel Corona Virus (COVID-19) epidemiological dataset”. 
+
 This project contains:
 - Data cleaning and preprocessing
 - Data visualization
