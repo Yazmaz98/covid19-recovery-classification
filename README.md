@@ -10,3 +10,6 @@ This project contains:
 - Classification 
   - Log regression
   - Random forest
+- Clustering
+  - Hierarchical
+  - K-means
